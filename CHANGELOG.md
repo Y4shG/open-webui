@@ -1,3 +1,20 @@
+# v0.6.6 (Thu Apr 17 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Added deploy.yml file ([@Y4shG](https://github.com/Y4shG))
+- Added release.yml file ([@Y4shG](https://github.com/Y4shG))
+- Added deploy.sh file ([@Y4shG](https://github.com/Y4shG))
+- Added .autorc file ([@Y4shG](https://github.com/Y4shG))
+- Added amber.yaml secrets file ([@Y4shG](https://github.com/Y4shG))
+- Added flask quickstart ([@Y4shG](https://github.com/Y4shG))
+
+#### Authors: 1
+
+- [@Y4shG](https://github.com/Y4shG)
+
+---
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
